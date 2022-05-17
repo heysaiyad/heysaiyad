@@ -1,5 +1,4 @@
-
-<h1>Hi, I’m Md Saiyad Ali 👋</h1>
+<h2>Hi, I’m Md Saiyad Ali 👋</h2>
 
 - 👀 I’m interested in Web Development, Cyber Security, Open Source Contribution.
 - 🌱 I’m currently learning C++ & JavaScript.
