@@ -14,7 +14,7 @@
 <a href="https://twitter.com/heysaiyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heysaiyad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/heysaiyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heysaiyad" height="30" width="40" /></a>
 <a href="https://instagram.com/heysaiyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heysaiyad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coding nagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[CodingNagri]" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codingNagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[CodingNagri]" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdsaiyad7970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdsaiyad7970" height="30" width="40" /></a>
 </p>
 
