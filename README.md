@@ -1,4 +1,4 @@
-<h2>Hi, I’m Md Saiyad Ali 👋</h2>
+<h1>Hi, I’m Md Saiyad Ali 👋</h1>
 
 - 👀 I’m interested in Web Development, Open Source Contribution.
 - 🌱 I’m currently learning DSA, DBMS & AI.
