@@ -1,6 +1,6 @@
 <h1>Hi, I’m Md Saiyad Ali 👋</h1>
 
-- 👀 I’m interested in Web Development, Open Source Contribution.
+- 👀 I’m interested in UI UX Design, Open Source Contribution.
 - 🌱 I’m currently learning DSA, DBMS & AI.
 - 💬 Ask me about Web Development or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @heysaiyad](https://www.instagram.com/heysaiyad/) .
