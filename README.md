@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in UI UX Design, Open Source Contribution.
 - 🌱 I’m currently learning DSA, DBMS & AI.
-- 💬 Ask me about UI UX & Graphic Designing or any tech-related stuff.
+- 💬 Ask me about UI/UX & Graphic Designing or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @heysaiyad](https://www.instagram.com/heysaiyad/) .
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 3 hours listening to music every day.
