@@ -1,7 +1,7 @@
 <h1>Hi, I’m Md Saiyad Ali 👋</h1>
 
 - 👀 I’m interested in UI/UX & Product Design, Open Source Contribution.
-- 🌱 I’m currently learning DSA, DBMS & AI.
+- 🌱 I’m currently learning DSA.
 - 💬 Ask me about UI/UX & Graphic Designing or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @heysaiyad](https://www.instagram.com/heysaiyad/) .
 - 😄 Pronouns: He/His
