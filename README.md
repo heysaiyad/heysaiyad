@@ -1,7 +1,7 @@
 <h1>Hi, I’m Md Saiyad Ali 👋</h1>
 
 - 👀 I’m interested in UI/UX & Product Design, Open Source Contribution.
-- 🌱 I’m currently learning DSA & Linux.
+- 🌱 I’m currently learning DSA & MERN Stack.
 - 💬 Ask me about UI/UX & Graphic Designing or any tech-related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 3 hours listening to music every day.
