@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 👨‍💻 All of my projects are available at (github.com/heysaiyad)
+- 👨‍💻 All of my projects are available at [github.com/heysaiyad]
 
 - 📝 I regularly write articles on [https://www.geeksforgeeks.org/user/heysaiyad/contributions/](https://www.geeksforgeeks.org/user/heysaiyad/contributions/)
 
